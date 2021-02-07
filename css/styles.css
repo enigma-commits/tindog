@@ -110,6 +110,35 @@ p {
   width: 100%;
   height: 400px;
 }
+#cta {
+  text-align: center;
+  margin: 50px 0px;
+  padding: 8% 16%;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font: bold;
+  font-weight: bolder;
+  background-color: #ef3f61;
+  color: #fff;
+}
+.cta-head {
+  font-size: 80%;
+}
+#footer {
+  padding: 8% 16%;
+  text-align: center;
+}
+.ic {
+  padding: 1%;
+  color: green;
+}
+.ic:hover {
+  color: red;
+}
+.ic:visited {
+  color: red;
+}
 @media (max-width: 1028px) {
   .title-image {
     position: static;
